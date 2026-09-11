@@ -1,0 +1,12 @@
+# boot.img.sha256
+
+# SHA256 checksum for boot.img
+# This file currently contains a placeholder. Compute the real checksum locally and replace the placeholder line below.
+# To compute locally:
+#   sha256sum boot.img > boot.img.sha256
+# To verify locally after replacing the checksum line:
+#   sha256sum -c boot.img.sha256
+
+# Git blob SHA1 (for reference): 7977feab42cb01b22674820d4547c416b9860d32
+
+REPLACE_ME  boot.img
