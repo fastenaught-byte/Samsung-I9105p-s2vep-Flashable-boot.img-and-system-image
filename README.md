@@ -35,6 +35,16 @@ Click on AP and then select your boot.img.tar file.
 
 BEFORE YOU CLICK "Start"
 MAKE SURE YOU BACKED UP ALL FILES OF YOUR DEVICE YOU ARE WILLING TO RISK I WILL NOT BE MADE LIABLE FOR ANY BRICKED DEVICES, THERMONUCLEAR WARS OR DATA LOSS.
-wait till it prompts DONE! then disconnect your device.
+
+Wait till it prompts DONE! then disconnect your device.
 
 Then install Pmbootstrap on your Linux System/ or WSL (windows subsystem for linux) the tutorial for that will be found on the PostmarketOS wiki.
+
+FUNCTIONALITIES:
+Wifi does work but you will have to always start it up manually through SSH or Terminal.
+Touch does work Flawlessly and Apps run quite Smooth 
+I also got Luanti and OpenTTD to work
+<img width="2621" height="3495" alt="1789124146711" src="https://github.com/user-attachments/assets/f94b45d7-07f9-4d4f-8a6a-40fd9d28b5f5" />
+<img width="2491" height="3321" alt="1789124146651" src="https://github.com/user-attachments/assets/dbfc7b12-70d8-4c7c-8cb9-c4d20135bbdc" />
+<img width="3000" height="4000" alt="1789124146750" src="https://github.com/user-attachments/assets/b29b1971-433a-49b5-a1d8-876b8d7cf109" />
+
