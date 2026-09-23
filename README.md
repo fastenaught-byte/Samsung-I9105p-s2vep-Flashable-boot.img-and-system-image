@@ -3,14 +3,14 @@
 DISCLAIMER:
 THIS IS AN DOWNSTREAM BUILD OF THE POSTMARKETOS KERNEL BOOT IMAGE WHICH MAY HAVE MANY MORE BUGS THAN YOU CAN IMAGINE. HAVE A BACKUP BEFORE FLASHING THIS AND TRY AT YOUR OWN RISK.
 
-Installing a custom Operating System on a Galaxy S2 Plus (s2vep, i9105p) will require the bootloader to be unlocked, which may VOID your warranty and may delete all your data. Before proceeding further you may consider backup all data on the phone. You are the only person doing changes to your phone and I cannot be held responsible for the mistakes done by you.
+Installing a custom Operating System on a Galaxy S2 Plus (s2vep, i9105p) will require the bootloader to be unlocked, which may VOID your warranty and can delete ALL your data. Before proceeding further you may consider backup all data on the phone. You are the only person doing changes to your phone and I cannot be held responsible for the mistakes done by you.
 
 KNOWN BUGS:
 XFCE4 will not work under any circumstances because the old 3.0.X kernel can NOT understand newer code.
 System randomly Restarting or SSH disconnecting without warning.
 
 WORKING:
-LXQT desktop enviroment, MATE and LXDE
+LXQT, MATE and LXDE desktop Environment
 
 DESCRIPTION:
 This Kernel is a working (tested by me) build for the Galaxy S2 Plus/s2vep its a active linux kernel that allows you to boot PostmarketOS of the SD card or the internal DATA Partition since most of the PmBootstrap System builds are too big for the internal Partitions you can flash it onto the SD card.
