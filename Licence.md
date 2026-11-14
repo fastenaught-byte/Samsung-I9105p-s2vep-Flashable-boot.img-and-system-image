@@ -1,4 +1,4 @@
-Copyright (C) 2026 fastenaught-byte
+Copyright ©2026 fastenaught-byte
 
 This project is licensed under the GNU Lesser General Public License v3.0.
 
