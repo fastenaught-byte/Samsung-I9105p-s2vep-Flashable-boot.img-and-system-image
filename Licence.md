@@ -1,7 +1,7 @@
 GNU LESSER GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+Version 3, 14.11.2026
 
-Copyright © 2007 fastenaught-byte
+Copyright © 2026 fastenaught-byte
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
