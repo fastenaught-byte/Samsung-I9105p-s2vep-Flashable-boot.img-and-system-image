@@ -1,7 +1,7 @@
 # Samsung-I9105p-s2vep-Flashable-boot.img Image
 
 DISCLAIMER:
-THIS IS AN DOWNSTREAM BUILD OF THE POSTMARKETOS KERNEL BOOT IMAGE WHICH MAY HAVE MANY MORE BUGS THAN YOU CAN IMAGINE. HAVE A BACKUP BEFORE FLASHING THIS AND TRY AT YOUR OWN RISK.
+THIS IS AN DOWNSTREAM BUILD OF THE POSTMARKETOS KERNEL BOOT IMAGE WHICH MAY HAVE MORE BUGS THAN YOU CAN IMAGINE. HAVE A BACKUP BEFORE FLASHING THIS AND TRY AT YOUR OWN RISK.
 
 Installing a custom Operating System on a Galaxy S2 Plus (s2vep, i9105p) will require the bootloader to be unlocked, which may VOID your warranty and can delete ALL your data. Before proceeding further you may consider backup all data on the phone. You are the only person doing changes to your phone and I cannot be held responsible for the mistakes done by you.
 
