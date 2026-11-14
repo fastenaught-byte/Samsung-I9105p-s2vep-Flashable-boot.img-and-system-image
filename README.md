@@ -3,7 +3,7 @@
 DISCLAIMER:
 THIS IS AN DOWNSTREAM BUILD OF THE POSTMARKETOS KERNEL BOOT IMAGE WHICH MAY HAVE MORE BUGS THAN YOU CAN IMAGINE. HAVE A BACKUP BEFORE FLASHING THIS AND TRY AT YOUR OWN RISK.
 
-Installing a custom Operating System on a Galaxy S2 Plus (s2vep, i9105p) will require the bootloader to be unlocked, which may VOID your warranty and can delete ALL your data. Before proceeding further you may consider backup all data on the phone. You are the only person doing changes to your phone and I cannot be held responsible for the mistakes done by you.
+Installing a custom Operating System on a Galaxy S2 Plus (s2vep, i9105p) will require the bootloader to be unlocked, which may VOID your warranty wich i dont think exists anymore and can delete ALL your data. Before proceeding further you may consider backup all data on the phone. You are the only person doing changes to your phone and I cannot be held responsible for the mistakes done by you.
 
 KNOWN BUGS:
 XFCE4 will not work under any circumstances because the old 3.0.X kernel can NOT understand newer code.
