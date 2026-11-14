@@ -1,7 +1,11 @@
-GNU LESSER GENERAL PUBLIC LICENSE
-Version 3, 14.11.2026
+Copyright (C) 2026 fastenaught-byte
 
-Copyright © 2026 fastenaught-byte
+This project is licensed under the GNU Lesser General Public License v3.0.
+
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
